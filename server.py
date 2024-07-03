@@ -8,7 +8,7 @@
 # Regiones de ngrok
 # Código          Lugar
 #-----------      ---------------------------
-# usaré esta linea para escribir lo que se me de la gana y así el serv funcione sin problems :3 
+# usaré esta linea para escribir, por ahora estoy intentado solucionar lo de fresh animations 
 # ap	          Asia / Pacífico (Singapore)
 # au		      Australia (Sydney)
 # eu		      Europa (Frankfurt)
